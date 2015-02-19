@@ -63,3 +63,5 @@ If you found any bugs/issues please report and I'll try to fix them asap.
 **How does this plugin works?**
 
 This plugin adds 'hide_this_item' class to selected menu items.
+
+[Download From WordPress](https://wordpress.org/plugins/page-specific-menu-items/)
